@@ -5,7 +5,7 @@
     information generation of both polar and rectangular form.
 
     This program is fundementally built to help me with my up
-    comming calculus exams understanding important concepts behind
+    coming calculus exams understanding important concepts behind
     complex numbers. 
 
     An import module used in this program is matplotlib as it provides
